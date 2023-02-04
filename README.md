@@ -23,9 +23,9 @@
 
 ### Technology Stacks
 
--   Language: Go, C/C++, JavaScript/TypeScript
--   Backend: Node.js, Express.js, Fiber
--   Frontend: React, Next.js, Redux
+-   Language: C/C++, JavaScript/TypeScript
+-   Backend: Node.js, Express.js
+-   Frontend: React, Redux, Next.js
 -   Database: PostgreSQL, MongoDB
 -   Tools: Linux (Ubuntu), Markdown, Git, VS Code
 
