@@ -15,9 +15,10 @@
 
 ### Quick highlights
 
--   Learning experience in C/C++ and JavaScript
--   2+ years of studying experience in Computer Science
+-   Attending Programming Contest
 -   Experience in Algorithmic Problem Solving (Solved 800+ problems)
+-   2+ years of studying experience in Computer Science
+-   Learning C/C++ and JavaScript
 -   Developed applications by following MERN Stack
 -   Opensource enthusiast and love write elegant code
 
