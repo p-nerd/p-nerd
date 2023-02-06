@@ -21,13 +21,28 @@
 -   Developed applications by following MERN Stack
 -   Opensource enthusiast and love write elegant code
 
-### Technology Stacks
+### Problem Solving
+
+#### Online Judges:
+-  Coleforces: Solved 700+ problems, [Repo Link](https://github.com/p-nerd/codeforces)
+-  LightOJ: Solved 21+ problems, [Repo Link](https://github.com/p-nerd/lightoj)
+-  LeetCode: Solved 65+ problems, [Repo Link](https://github.com/p-nerd/leetcode)
+-  UVa: Solved 70+ problems, [Repo Link](https://github.com/p-nerd/uva)
+#### Books that I read for CP:
+- কম্পিউটার প্রোগ্রামিং ১ম খণ্ড (Tamim-Shahriar-Subeen), [Repo Link](https://github.com/p-nerd/computer-programming-1st-part)
+- কম্পিউটার প্রোগ্রামিং ২য় খণ্ড (Tamim-Shahriar-Subeen), [Repo Link](https://github.com/p-nerd/computer-programming-2nd-part)
+- গণিত করব জয় (Tamim Shahriar Subeen and Tahmid Rafi), [Repo Link](https://github.com/p-nerd/gonit-korbo-joi)
+- Teach YourSelf C (Herbert Schildt), [Repo Link](https://github.com/p-nerd/teach-yourself-c)
+
+### Skills
 
 -   Language: C/C++, JavaScript/TypeScript
+-   Problem Solving: 
 -   Backend: Node.js, Express.js, Mongoose
 -   Frontend: React, Redux, Next.js
 -   Database: PostgreSQL, MongoDB
 -   Tools: Linux (Ubuntu), Markdown, Git, VS Code
+
 
 <a href="https://github.com/p-nerd">
   <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=p-nerd&theme=nord&show_icons=true&count_private=true&hide=contribs&line_height=30" />
