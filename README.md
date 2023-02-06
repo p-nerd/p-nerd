@@ -38,7 +38,6 @@
 ### Skills
 
 -   Language: C/C++, JavaScript/TypeScript
--   Problem Solving: 
 -   Backend: Node.js, Express.js, Mongoose
 -   Frontend: React, Redux, Next.js
 -   Database: PostgreSQL, MongoDB
