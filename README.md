@@ -8,7 +8,8 @@
 <a target="_blank" href="https://facebook.com/shihab4t"><img src="https://img.shields.io/badge/-Facebook-0166E1?style=flat&logo=Facebook&logoColor=white"/></a>
 <a target="_blank" href="https://codeforces.com/profile/p-nerd"><img src="https://img.shields.io/badge/-Codeforces-808080?style=flat&logo=Codeforces&logoColor=white"/></a>
 <a target="_blank" href="https://www.stopstalk.com/user/profile/shihab4t"><img src="https://img.shields.io/badge/-Stopstalk-536DFE?style=flat&logo=StopStalk&logoColor=white"/></a>
-<a target="_blank" href="https://g.dev/p-nerd">Google Developer Profile</a>
+<a target="_blank" href="https://g.dev/p-nerd">G Dev</a>
+<a target="_blank" href="https://www.techdiary.dev/p-nerd">techdiary.dev</a>
 
 
 </div>
