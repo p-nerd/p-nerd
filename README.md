@@ -16,12 +16,13 @@
 
 ### Quick highlights
 
+-   Experience in Algorithmic Problem Solving (Solved `800+ problems`)
 -   Attending Programming Contest
--   Experience in Algorithmic Problem Solving (Solved 800+ problems)
 -   2+ years of studying experience in Computer Science
--   Learning C/C++ and JavaScript
--   Developed applications by following MERN Stack
+-   Learning `Data Structures and Algorithms`, `C/C++` and `JavaScript/TypeScript`
+-   Can Developed applications with `MERN` Stack
 -   Opensource enthusiast and love write elegant code
+-   Used Linux(Ubuntu Based) as permanent workstation
 
 ### Problem Solving
 
