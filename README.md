@@ -16,7 +16,7 @@
 ### Quick highlights
 
 -   🧩 Experience in Algorithmic Problem Solving (Solved [`800+ problems`](https://github.com/p-nerd/online_judges) and Attended Programming Contests
--   📚 `3+` years of studying experience in Computer Science And Software Development Experience
+-   📚 `3+` years of learning experience in Computer Science And Software Development
 -   🌐 `1+` years of Software Development (mainly in Web Development) Experience
 -   📖 Learning [`Data Structures and Algorithms`](https://github.com/p-nerd/dsa_library), `C/C++`, `JavaScript/TypeScript`, `PHP`, `Go`
 -   💻 Can Develop applications with `JavaScript`, `PHP`, `Go` Stacks
