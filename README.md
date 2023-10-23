@@ -50,11 +50,11 @@
 
 ### Skills
 
--   Languages: C/C++ 🐍, JavaScript/TypeScript 🕸️, PHP 🐘, Go 🚀
--   Backends: Node.js (Express.js, Koa.js, etc) 🌐, Laravel 🌸, WordPress 📝
--   Frontends: React.js ⚛️, Redux 🔄, Zustand 🦌, React Query 🔍, Solid.js 🪶
--   Databases: MongoDB 🍃, PostgreSQL 🐘, Redis 🔄
--   Tools: Linux (Ubuntu) 🐧, Markdown 📝, Git 🐙, Neovim 📜, VS Code ⚙️
+-   Languages: C/C++, JavaScript/TypeScript, PHP, Go
+-   Backends: Node.js (Express.js, Koa.js, etc), Laravel, WordPress
+-   Frontends: React.js, Redux, Zustand, React Query, Astro, Solid.js
+-   Databases: MongoDB, PostgreSQL, Redis
+-   Tools: Linux (Ubuntu), Markdown, Git, Neovim, VS Code
 
 <hr />
 
