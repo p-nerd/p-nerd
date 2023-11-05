@@ -54,7 +54,7 @@
 -   Backends: Node.js (Express.js, Koa.js, etc), Laravel, WordPress
 -   Frontends: React.js, Redux, Zustand, React Query, Astro, Solid.js
 -   Databases: MongoDB, PostgreSQL, Redis
--   Tools: Linux, Docker, Git, Neovim
+-   Tools: Linux, Neovim, Git, Docker, Nginx
 
 <hr />
 
