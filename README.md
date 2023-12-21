@@ -18,24 +18,11 @@
 -   🧩 Experience in Algorithmic Problem Solving (Solved [`800+ problems`](https://github.com/p-nerd/online_judges) and Attended Programming Contests
 -   📚 `3+` years of learning experience in Computer Science And Software Development
 -   🌐 `1+` years of Software Development (mainly in Web Development) Experience
--   📖 Learning [`Data Structures and Algorithms`](https://github.com/p-nerd/dsa_library), `C/C++`, `JavaScript/TypeScript`, `PHP`, `Go`
--   💻 Can Develop applications with `JavaScript`, `PHP`, `Go` Stacks
+-   📖 Learning [`Data Structures and Algorithms`](https://github.com/p-nerd/dsa_library), `C/C++`, `JavaScript/TypeScript`, `PHP`
+-   💻 Can Develop applications with `JavaScript/TypeScript`, `PHP` Stacks. [Check out my Projects](https://developershihab.com/projects)
 -   🚀 Opensource enthusiast and loves to write elegant code
 -   🍏 Previously Used `Linux` as a primary workstation (2.5 years), Now switched to `macOS`
--   ✍️ Use [`Neovim`](https://github.com/p-nerd/nvim_conf) as a primary IDE for any kind of development/coding
-
-<hr />
-
-### Clients Projects
-
--   PaystubHero: [`Read More`](https://developershihab.com/projects/paystubhero) or [`See In Live`](https://paystubhero.com/generate-pay-stubs)
--   CraftedSticker: [`Read More`](https://developershihab.com/projects/craftedsticker)
-
-### Open Source Projects:
-
--   37nerds/keep: [`Repo Link`](https://github.com/37nerds/keep) [`Live Link`](https://keep.37nerds.com)
--   developershihab.com: [`Repo Link`](https://github.com/p-nerd/developershihab.com) [`Live Link`](https://developershihab.com)
--   37nerds.com: [`Repo Link`](https://github.com/37nerds/37nerds.com) [`Live Link`](https://37nerds.com)
+-   ✍️ Use [`Neovim`](https://github.com/p-nerd/nvim.conf) as a primary IDE for any kind of development/coding
 
 <hr />
 
