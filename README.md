@@ -26,18 +26,9 @@
 
 <hr />
 
-### Problem-Solving: [`Repo Link`](https://github.com/p-nerd/online-judges)
-
--   Codeforces: Solved 700+ problems
--   LightOJ: Solved 21+ problems
--   LeetCode: Solved 65+ problems
--   UVa: Solved 70+ problems
-
-<hr />
-
 ### Skills
 
--   Languages: C/C++, JavaScript/TypeScript, PHP, Go
+-   Languages: C/C++, JavaScript/TypeScript, PHP
 -   Backends: Node.js (Express.js, Koa.js, etc), Laravel, WordPress
 -   Frontends: React.js, Redux, Zustand, React Query, Astro, Solid.js
 -   Databases: MongoDB, PostgreSQL, Redis
